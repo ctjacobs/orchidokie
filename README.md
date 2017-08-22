@@ -7,7 +7,7 @@ The tool requires the dataset's ORCID record to contain (in the `Work Identifier
 1. The DOI of the dataset itself, marked as `Self`.
 2. The DOI of the associated publication, marked as `Part of`.
 
-This is so far only a prototype aimed a highlighting how good metadata practices can help with data discovery.
+This is so far only a prototype aimed at highlighting how good metadata practices can help with data discovery.
 
 ## Dependencies
 
