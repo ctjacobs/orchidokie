@@ -27,7 +27,7 @@ Note the switch to the `2.0update` branch.
 A "Client ID" and a "Client Secret" are required. These can be obtained by creating a new application in the [Developer Tools](https://orcid.org/developer-tools) section of the ORCID website. They should be passed in at the command line, along with the DOI of the publication:
 
 ```
-python orchidokie.py -i client_id_here -s client_secret_here -d 10.000/doi.123.here
+python orchidokie.py client_id_here client_secret_here 10.000/doi.123.here
 ```
 
 ## Example
