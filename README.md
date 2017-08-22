@@ -33,7 +33,7 @@ python orchidokie.py client_id_here client_secret_here 10.000/doi.123.here
 ## Example
 
 ```
-christian@banoffee ~/orchidokie $ python orchidokie.py CLIENT_ID_HIDDEN CLIENT_SECRET_HIDDEN 10.1016/j.jocs.2016.11.001
+~/orchidokie $ python orchidokie.py CLIENT_ID_HIDDEN CLIENT_SECRET_HIDDEN 10.1016/j.jocs.2016.11.001
 Datasets of 10.1016/j.jocs.2016.11.001:
 
 	 * Enstrophy and kinetic energy data from 3D Taylor-Green vortex simulations (https://doi.org/10.5258/SOTON/401892)
